@@ -1,4 +1,4 @@
-This is my second task as a Cyber Security Intern at Prodigy InfoTech where I was supposed to develop a simple image encryption and decryption tool using pixel manipulation.
+I developed a simple image encryption and decryption tool using pixel manipulation.
 
 I have used resources like Visual Studio Code as the text editor and used internet resources for debugging.
 This task is executed using the following steps:
